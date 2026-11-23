@@ -1,0 +1,5 @@
+# robots.txt for Kamal Raj R Portfolio
+User-agent: *
+Allow: /
+
+Sitemap: https://kamalraj-r.github.io/sitemap.xml
